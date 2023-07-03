@@ -1,5 +1,5 @@
 {
-  "name": "15_pokenext",
+  "name": "pokenext",
   "private": true,
   "scripts": {
     "dev": "next dev",
